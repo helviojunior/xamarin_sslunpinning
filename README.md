@@ -84,7 +84,7 @@ Recomendo a leitura dos textos abaixo:
 
 - [Arquitetura do Xamarin.Android](http://www.macoratti.net/16/07/xamand_xam1.htm)
 - [Bypassing Xamarin Certificate Pinning on Android](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
-- [](http://docs.go-mono.com/?link=root%3a%2fembed)
-- [](https://github.com/freehuntx/frida-mono-api)
-- [](https://github.com/freehuntx/frida-ex-nativefunction)
+- [Mono Embedding Documentation](http://docs.go-mono.com/?link=root%3a%2fembed)
+- [Mono Frida API](https://github.com/freehuntx/frida-mono-api)
+- [Frida Hook Native Functions](https://github.com/freehuntx/frida-ex-nativefunction)
 
