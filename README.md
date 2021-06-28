@@ -2,6 +2,10 @@
 
 Este projeto visa realizar o Bypass de SSL Pinning no Android Xamarin
 
+## Treinamentos especializados
+
+Deseja aprender de forma definitiva como realizar um Teste de invasão (Pentest) em dispositivos móveis Android? Verifique o treinamento da [Sec4US](https://sec4us.com.br/treinamentos/hacking-mobile-application-android/) de [Hacking Mobile Application - Android](https://sec4us.com.br/treinamentos/hacking-mobile-application-android/) em https://sec4us.com.br/treinamentos/hacking-mobile-application-android/
+
 ## Metodologias
 
 Devido a arquitetura do Android Xamarin e do método utilizado para Bypass, por padrão, ao realizar o Bypass perde-se também a confoguração de proxy. Então neste procedimento temos duas metodologias de realização do SSL Unpinning:
@@ -77,7 +81,6 @@ adb shell su - -c iptables -t nat -D OUTPUT -p tcp -m tcp --dport 80 -j REDIRECT
 frida -U -f [app_id] -l xamarin-sslbypass.js --no-pause
 ```
 
-
 ## Estudo adicional
 
 Recomendo a leitura dos textos abaixo:
@@ -87,4 +90,5 @@ Recomendo a leitura dos textos abaixo:
 - [Mono Embedding Documentation](http://docs.go-mono.com/?link=root%3a%2fembed)
 - [Mono Frida API](https://github.com/freehuntx/frida-mono-api)
 - [Frida Hook Native Functions](https://github.com/freehuntx/frida-ex-nativefunction)
+
 
