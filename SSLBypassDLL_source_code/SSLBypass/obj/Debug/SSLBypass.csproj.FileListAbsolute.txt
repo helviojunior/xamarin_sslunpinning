@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\SSLBypass\SSLBypass\bin\Debug\SSLBypass.dll
+C:\Users\Administrator\source\repos\SSLBypass\SSLBypass\bin\Debug\SSLBypass.pdb
+C:\Users\Administrator\source\repos\SSLBypass\SSLBypass\obj\Debug\SSLBypass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SSLBypass\SSLBypass\obj\Debug\SSLBypass.dll
+C:\Users\Administrator\source\repos\SSLBypass\SSLBypass\obj\Debug\SSLBypass.pdb
